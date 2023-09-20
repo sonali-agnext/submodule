@@ -1,0 +1,3 @@
+[submodule "react-map-simple"]
+	path = react-map-simple
+	url = https://github.com/sonali-agnext/react-map-simple.git
